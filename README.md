@@ -70,7 +70,7 @@ MultiRight : https://github.com/MultiRight
 ---
 ## Repository
 
-Repository: [https://github.com/MultiRight/PyGeoterm](https://github.com/MultiRight/PyGeoterm)
+Repository: [https://github.com/MultiRight/MultiGenerator](https://github.com/MultiRight/MultiGenerator)
 
 ---
 ## Copyright
