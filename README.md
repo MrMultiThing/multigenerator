@@ -68,7 +68,21 @@ The program will always tell you what went wrong and let you try again. Here is 
 MultiRight : https://github.com/MultiRight
 
 ---
+## Repository
 
+Repository: [https://github.com/MultiRight/PyGeoterm](https://github.com/MultiRight/PyGeoterm)
+
+---
+## Copyright
+
+Copyright (C) 2026 MultiRight https://github.com/MultiRight
+
+---
+## License
+
+This project is licensed under the **GNU General Public License v3.0**.
+
+---
 ## 🐱 Special Thanks
 
 A special thanks to mimi — the legendary, the great, the gentle cat.
