@@ -20,13 +20,7 @@ multigenerator is a small Python program that runs in your terminal and generate
 
 ## How to run it
 
-**1. Download the project**
-```bash
-git clone https://github.com/MultiRight/multigenerator.git
-cd multigenerator
-```
-
-**2. Run the script**
+** Run the script **
 ```bash
 python multigenerator.py
 ```
