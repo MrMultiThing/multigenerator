@@ -30,6 +30,10 @@ cd multigenerator
 ```bash
 python multigenerator.py
 ```
+> **Tip:** If `python` does not work, try:
+> ```bash
+> python3 multigenerator.py
+> ```
 
 ---
 
@@ -66,6 +70,12 @@ The program will always tell you what went wrong and let you try again. Here is 
 
 This project is licensed under the **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)** 
 
+---
+
+## Author
+
+**Mohssine :**
+[ https://github.com/MohssineX](https://github.com/MohssineX)
 
 ---
 ## 🐱 Special Thanks
