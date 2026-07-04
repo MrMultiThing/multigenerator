@@ -14,7 +14,7 @@ if sys.platform == "win32":
 
 color_red = "\033[31m"
 color_green = "\033[32m"
-color_orange = "\033[33m"
+color_yellow = "\033[33m"
 color_light_blue = "\033[94m"
 color_pink = "\033[95m"
 color_reset = "\033[0m"
@@ -62,10 +62,10 @@ try :
                     
                         if user_action == "q" :
                             print()
-                            print(f"{color_orange}Thank you for using multigenerator!{color_reset}")
-                            print(f"{color_orange}Author : https://github.com/Mohssine0x{color_reset}")
+                            print(f"{color_yellow}Thank you for using multigenerator!{color_reset}")
+                            print(f"{color_yellow}Author : https://github.com/Mohssine0x{color_reset}")
                             print()
-                            print(f"{color_orange}goodbye{color_reset}")
+                            print(f"{color_yellow}goodbye{color_reset}")
                             running = False
                             uprunning = False
                             break
@@ -91,8 +91,8 @@ except KeyboardInterrupt :
                 
     print("\n")
 
-    print(f"{color_orange}Thank you for using multigenerator!{color_reset}")
-    print(f"{color_orange}Author : https://github.com/MohssineX{color_reset}")
+    print(f"{color_yellow}Thank you for using multigenerator!{color_reset}")
+    print(f"{color_yellow}Author : https://github.com/MohssineX{color_reset}")
     print()
-    print(f"{color_orange}goodbye{color_reset}")
+    print(f"{color_yellow}goodbye{color_reset}")
                 
